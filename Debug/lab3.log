@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/1/21 23:37:13。
+     1>项目“C:\Users\Ashken\Desktop\Regina\CS408\lab3\Lab3 - Copy (1.4.53)\lab3.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\lab3.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Square.cpp
+         Square.cpp
+       Link:
+         G:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ashken\Desktop\Regina\CS408\lab3\Lab3 - Copy (1.4.53)\Debug\lab3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ashken\Desktop\Regina\CS408\lab3\Lab3 - Copy (1.4.53)\Debug\lab3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ashken\Desktop\Regina\CS408\lab3\Lab3 - Copy (1.4.53)\Debug\lab3.lib" /MACHINE:X86 Debug\main3.obj
+         Debug\DisplayList.obj
+         Debug\Material.obj
+         Debug\MtlLibrary.obj
+         Debug\MtlLibraryManager.obj
+         Debug\ObjModel.obj
+         Debug\ObjStringParsing.obj
+         Debug\SpriteFont.obj
+         Debug\Texture.obj
+         Debug\TextureBmp.obj
+         Debug\TextureManager.obj
+         Debug\Vector2.obj
+         Debug\Vector3.obj
+         Debug\Sleep.obj
+         Debug\Square.obj
+         lab3.vcxproj -> C:\Users\Ashken\Desktop\Regina\CS408\lab3\Lab3 - Copy (1.4.53)\Debug\lab3.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\lab3.unsuccessfulbuild”。
+         正在对“Debug\lab3.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Ashken\Desktop\Regina\CS408\lab3\Lab3 - Copy (1.4.53)\lab3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.04
