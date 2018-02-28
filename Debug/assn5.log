@@ -1,0 +1,17 @@
+﻿D:\Programs\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (assn5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sleep.cpp
+  Vector3.cpp
+  Vector2.cpp
+  TextureManager.cpp
+  TextureBmp.cpp
+  Texture.cpp
+  SpriteFont.cpp
+  ObjStringParsing.cpp
+  ObjModel.cpp
+  MtlLibraryManager.cpp
+  MtlLibrary.cpp
+  Material.cpp
+  DisplayList.cpp
+  main3.cpp
+  Generating Code...
+  assn5.vcxproj -> D:\Project\OpenGL\GasSimulator\Debug\GasSimulator.exe
